@@ -1,0 +1,61 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "renatoluizcarvalho@gmail.com",
+    "longName": "dolce-gusto-timer",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/time.png",
+                "name": "IMAGES_TIME_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/checkedmark.png",
+                "name": "IMAGES_CHECKEDMARK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/hotdrink.png",
+                "name": "IMAGES_HOTDRINK_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "dolce-gusto-timer",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "32f9e606-8a7e-4822-848f-2dd3fe9891f9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
